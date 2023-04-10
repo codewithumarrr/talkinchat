@@ -1,0 +1,32 @@
+.participant-listt {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 10px;
+    overflow-y: scroll;
+    /* height: 80vh; */
+  }
+  
+  .participant-listt h2 {
+    text-align: center;
+    margin-top: 0;
+  }
+  
+  .participant-listt ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .participant-listt li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .participant-listt img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
